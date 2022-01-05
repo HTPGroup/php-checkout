@@ -63,13 +63,7 @@ php artisan make:controller Admin\TestController --resource
 
 ### Telegram Bot
 
-laptrinhphpbot
-
-1746150771:AAFdNrxVAcQ3T1JUM6lhnB9fT4NFPmdSSV4
-
 ### Dev
-Laptrinhphp_bot
-1896350265:AAGBB0EuEb92c05kW_deVMKxJRLrEe28x5U
 
 ### Product Bot
 
